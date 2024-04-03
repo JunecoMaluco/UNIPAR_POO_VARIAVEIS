@@ -34,7 +34,7 @@ class AT2 {
 
 ATIVIDADE 3
 
-String nomeDoAluno = "Vinicius"; 
+String nomeDoAluno = "Junior"; 
   int idadeDoAluno = 20; 
   double notaDaProva1 = 9.5; 
   double notaDaProva2 = 4.0; 
@@ -130,7 +130,7 @@ public class ControleEstoque {
         double precoProduto;
         int quantidadeProduto;
         
-        marcaProduto = "xiaomi";
+        marcaProduto = "Apple";
         nomeProduto = "fone de ouvido";
         precoProduto = 29.99;
         quantidadeProduto = 10;
