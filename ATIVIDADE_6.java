@@ -27,10 +27,6 @@ Polimorfismo: Permite tratar objetos de diferentes classes de maneira uniforme, 
 
 Essas vantagens culminam em um software mais robusto, flexível e fácil de manter."
 
-adicione mais coisas no texto
-ChatGPT
-Claro, aqui está o texto expandido:
-
 "A programação orientada a objetos oferece vantagens significativas em relação à abordagem procedural:
 
 Reutilização de código: Classes e objetos podem ser reaproveitados em diferentes partes do programa, reduzindo a redundância e facilitando a manutenção.
